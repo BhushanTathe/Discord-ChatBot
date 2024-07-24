@@ -41,6 +41,7 @@ Feel free to open issues or submit pull requests to contribute to the developmen
 
 Contact
 For questions or support, please contact bhushantathe256@gmail.com -->
+<p><strong>🚨 Important Note:</strong> The ChatBot utilizes the Cohere API. Calls made using <strong>Trial keys</strong> are free of charge. However, these keys are rate-limited and <strong>cannot be used for commercial purposes</strong>.</p>
 
 <h1>ChatBot</h1>
 
