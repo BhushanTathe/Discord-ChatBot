@@ -43,11 +43,11 @@ Contact
 For questions or support, please contact bhushantathe256@gmail.com -->
 <p><strong style="font-size: 1.5em;">🚨Important Note: The ChatBot utilizes the Cohere API. Calls made using <strong>Trial keys</strong> are free of charge. However, these keys are rate-limited and <strong>cannot be used for commercial purposes</strong>.</strong></p>
 
-<p>🚀 Elevate your Discord server with <strong>ChatBot</strong>. Designed to deliver smart, conversational responses and interactive experiences, ChatBot brings the capabilities of AI right into your server. Whether you need answers, entertainment, or a friendly chat, ChatBot is here to keep the conversation flowing! 💬🤖</p>
+
 
 <h1>ChatBot</h1>
 
-<p>Elevate your Discord server with ChatBot. Designed to deliver smart, conversational responses and interactive experiences, ChatBot brings the capabilities of AI right into your server. Whether you need answers, entertainment, or a friendly chat, ChatBot is here to keep the conversation flowing!</p>
+<p>🚀 Elevate your Discord server with ChatBot. Designed to deliver smart, conversational responses and interactive experiences, ChatBot brings the capabilities of AI right into your server. Whether you need answers, entertainment, or a friendly chat, ChatBot is here to keep the conversation flowing! 💬🤖</p>
 
 <h2>ChatBot</h2>
 
